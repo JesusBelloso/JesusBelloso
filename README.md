@@ -68,7 +68,10 @@ He desarrollado una aplicación web que utiliza la API de Gemini para explicar f
   <img src="assets/SIPBOT.png" alt="Logo SIPBOT" width="200">
 </p>
 
-**SIPBOT** es un asistente inteligente para comunicaciones seguras vía protocolo SIP, diseñado para optimizar y automatizar flujos de trabajo en entornos de telecomunicaciones.
+**SIPBOT** Asistente Virtual de **SIPGRUP** RAG
+Especializado en Seguridad Privada, Alarmas, Acuda y Atención Comercial
+**Función principal:**
+SIPBOT es un asistente virtual diseñado para asistir al personal de la Central Receptora de Alarmas, vigilantes, operadores de Acuda, personal administrativo y también a clientes interesados en los servicios de la empresa SIPGRUP. Sus respuestas son basadas **únicamente** en la información recuperada desde la **base de conocimientos vectorial** de la empresa.
 
 - 💡 Inteligencia Artificial para gestión de llamadas.
 - 🔒 Seguridad en la transmisión de datos.
@@ -81,11 +84,11 @@ He desarrollado una aplicación web que utiliza la API de Gemini para explicar f
 Estoy abierto a colaboraciones y conversaciones sobre IA, automatización y tecnología. ¡No dudes en contactarme!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_PERFIL_DE_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/jesusbelloso88/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="mailto:jesusbelloso89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
