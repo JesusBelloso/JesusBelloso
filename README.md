@@ -98,9 +98,9 @@ Estoy abierto a colaboraciones y conversaciones sobre IA, automatización y tecn
 <details>
   <summary>Más sobre mí</summary>
   <ul>
-    <li>🌍 Ubicación: <b>Ciudad, País</b></li>
-    <li>👨‍💻 Actualmente trabajando en: <b>Empresa/Proyecto</b></li>
-    <li>🎓 Formación: <b>Universidad, especialización</b></li>
+    <li>🌍 Ubicación: <b>Empuriabrava, España</b></li>
+    <li>👨‍💻 Actualmente trabajando en: <b>SIPGRUP/Departamento I+D</b></li>
+    <li>🎓 Formación: <b>Universidad Experimental de la Fuerza Armada Venezuela, Especialista de Telecomunicaciones</b></li>
     <li>🗣️ Idiomas: Español, Inglés</li>
   </ul>
 </details>
