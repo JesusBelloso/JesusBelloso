@@ -65,7 +65,7 @@ He desarrollado una aplicación web que utiliza la API de Gemini para explicar f
 
 ### SIPBOT
 <p align="center">
-  <img src="assets/sipbot-logo.png" alt="Logo de SIPBOT" width="200">
+  <img src="assets/SIPBOT.png" alt="Logo SIPBOT" width="200">
 </p>
 
 **SIPBOT** es un asistente inteligente para comunicaciones seguras vía protocolo SIP, diseñado para optimizar y automatizar flujos de trabajo en entornos de telecomunicaciones.
