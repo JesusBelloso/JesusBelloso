@@ -63,8 +63,16 @@ He desarrollado una aplicación web que utiliza la API de Gemini para explicar f
 
 ## 🌟 Proyectos Destacados
 
-- [AI Code Explainer](https://TU_APP_URL): Asistente para explicar código usando IA.
-- [Nombre de otro proyecto](https://link_del_proyecto): Breve descripción del proyecto.
+### SIPBOT
+<p align="center">
+  <img src="assets/sipbot-logo.png" alt="Logo de SIPBOT" width="200">
+</p>
+
+**SIPBOT** es un asistente inteligente para comunicaciones seguras vía protocolo SIP, diseñado para optimizar y automatizar flujos de trabajo en entornos de telecomunicaciones.
+
+- 💡 Inteligencia Artificial para gestión de llamadas.
+- 🔒 Seguridad en la transmisión de datos.
+- 🤖 Integración sencilla con plataformas existentes.
 
 ---
 
