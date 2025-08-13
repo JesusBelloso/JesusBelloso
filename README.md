@@ -38,17 +38,7 @@ Trabajo diariamente con estas tecnologías:
 
 ---
 
-## ✨ Demo Interactiva: IA en Acción
 
-He desarrollado una aplicación web que utiliza la API de Gemini para explicar fragmentos de código en lenguaje natural.
-
-<p align="center">
-  <a href="https://TU_APP_URL">
-    <img src="https://placehold.co/600x350/1A1A1A/FFFFFF?text=AI+Code+Explainer+App" alt="AI Code Explainer App (captura real recomendada)">
-  </a>
-  <br>
-  <a href="https://TU_APP_URL"><strong>¡Prueba el AI Code Explainer aquí!</strong></a>
-</p>
 
 ---
 
